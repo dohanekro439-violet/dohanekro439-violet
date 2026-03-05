@@ -51,3 +51,6 @@ Apache NiFi · Apache Airflow · Apache Hadoop
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="[GitHub](https://github.com/dohanekro439-violet)"/>
   </a>
 </p>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:6DD5FA&height=200&section=footer"/>
