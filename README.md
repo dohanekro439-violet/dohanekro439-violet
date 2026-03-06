@@ -22,7 +22,7 @@ I am currently pursuing a Master’s degree in Artificial Intelligence & IoT, wi
 * AI-powered web applications
 * Connected and smart systems
 
-My academic work focuses on building end-to-end AI pipelines — from data collection and preprocessing to modeling, evaluation, and deployment — with an emphasis on scalability, performance, and real-world impact.
+My academic work focuses on building end-to-end AI pipelines from data collection and preprocessing to modeling, evaluation, and deployment with an emphasis on scalability, performance, and real-world impact.
 
 ---
 ## 🛠️ Technical Skills
