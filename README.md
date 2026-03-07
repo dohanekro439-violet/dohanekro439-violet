@@ -1,15 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:6DD5FA&height=200&section=header"/>
-
-<div align="center">
-
-# Hi, I'm Doha 👋
-
-### Master’s Student in Artificial Intelligence · AI & IoT
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi%20I'm%20Doha&fontSize=40&fontAlignY=35"/>
 
 <p align="center">
-Passionate about AI and Data Science, turning data into intelligent solutions.
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial+Intelligence+Student;Machine+Learning+Engineer;AI+%26+IoT+Enthusiast;Data+Science+Lover&center=true&width=500&height=40">
 </p>
-</div>
+
+<h3 align="center">
+Passionate about Artificial Intelligence, Data Science and Intelligent Systems,
+turning data into intelligent and impactful solutions.
+</h3>
+
 
 ---
 
