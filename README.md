@@ -1,8 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi%20I'm%20Doha&fontSize=40&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Hi%20I'm%20Doha&fontSize=42&fontAlignY=35&desc=AI%20Engineer%20•%20Data%20Science%20•%20IoT&descAlignY=55"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial+Intelligence+Student;Machine+Learning+Engineer;AI+%26+IoT+Enthusiast;Data+Science+Lover&center=true&width=500&height=40">
-</p>
 
 <h3 align="center">
 Passionate about Artificial Intelligence, Data Science and Intelligent Systems,
@@ -52,4 +49,4 @@ Apache NiFi · Apache Airflow · Apache Hadoop
 </p>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:6DD5FA&height=200&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&section=footer"/>
